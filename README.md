@@ -48,8 +48,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/Hairul343/Stock_Prediction_model.git
+    cd Stock_Prediction_model
     ```
 
 2. Create a virtual environment:
