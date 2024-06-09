@@ -11,7 +11,6 @@ This project is an end-to-end machine learning application developed in Python t
 
 - `data/`: Contains the dataset files.
 - `notebooks/`: Jupyter notebooks for data preprocessing and model training.
-- `model/`: Stores the trained model files.
 - `app/`: Web application code for deployment.
 - `requirements.txt`: Lists the dependencies for the project.
 - `.gitignore`: Specifies files and directories to be ignored in the repository.
